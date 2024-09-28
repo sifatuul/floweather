@@ -13,7 +13,8 @@ Floweather is a simple and elegant weather dashboard that allows users to search
 
 ## 📸 Screenshots
 
-![Floweather](./screenshot.png)
+![image](https://github.com/user-attachments/assets/99530e43-c23c-46e9-8a99-a7d00ab47a0b)
+
 
 ## 🚀 Demo
 
